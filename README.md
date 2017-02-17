@@ -66,4 +66,4 @@ wn-5551
 * RDS ( For database )
 * Cloudwatch ( For alarms ) 
 * IAM ( For Access Management )
-* DMS ( For Database management )
+* DMS ( For Database migration )
